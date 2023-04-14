@@ -1,2 +1,0 @@
-# IMPACT
-My IMPACT changes
